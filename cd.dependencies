@@ -1,0 +1,12 @@
+[
+ {
+   "branch": "cm-11.0",
+    "repository": "lge-kernel-p880",
+   "target_path": "kernel/lge/p880"
+ },
+ { 
+   "branch": "cm-11.0", 
+   "repository": "TheMuppets/proprietary_vendor_lge", 
+   "target_path": "vendor/lge" 
+ } 
+]
